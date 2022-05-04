@@ -11,3 +11,9 @@ git add .
 
 Tao diem nho
 git commit -m"nghia first commit"
+
+Dua len Server
+git push
+
+lay tu server ve
+git pull
